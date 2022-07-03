@@ -1,0 +1,2 @@
+在网址后面加上/robots.txt可查看网站对于爬虫的robots协议
+例如http://promedmail.org/robots.txt里表示其网站内容皆可爬取
