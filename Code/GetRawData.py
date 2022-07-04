@@ -13,7 +13,7 @@ fp1.write(pageSource)
 tree = etree.parse('pagetestsource.html', etree.HTMLParser())
 r = tree.xpath('//div[@class="text1"]//text()')
 
-fp = open('promedtesttext.txt', 'w', encoding='utf-8')
+fp2 = open('promedtesttext.txt', 'w', encoding='utf-8')
 
 for each in r:
-    fp.write(each + '\n')
+    fp2.write(each + '\n')
