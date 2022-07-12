@@ -1,3 +1,4 @@
+import os
 import time
 from lxml import etree
 from selenium import webdriver
@@ -8,6 +9,9 @@ driver = webdriver.Chrome()
 # read the start number of archive from file
 with open('arch_num.txt', 'r') as num_file:
     arch_num = int(num_file.read())
+# make a file folder for promedmail texts
+if not os.path.exists('./textFolder'):
+    os.mkdir('./textFolder')
 
 
 while True:

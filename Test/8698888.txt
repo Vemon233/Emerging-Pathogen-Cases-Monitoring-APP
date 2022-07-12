@@ -1,0 +1,165 @@
+DENGUE - INDIA (18): (PUNJAB)
+*****************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Tue 5 Oct 2021 08:28 IST
+Source: The Times of India (TOI), Times News Network (TNN) [edited]
+https://timesofindia.indiatimes.com/city/chandigarh/dengue-poses-new-challenge-for-punjab/articleshow/86771129.cms
+Dengue is becoming a cause of concern for the health department as there has been a concerning uptick in the number of dengue cases of vector-borne disease.
+As per the records of the state [Punjab] health department, of the 13 532 tests of suspected patients carried out, 3760 have been found positive of dengue. At present, there are 39 laboratories in Punjab doing free testing of dengue.
+Taking a serious note of the rising number of dengue cases in Punjab, deputy chief minister O P Soni directed the health department officials to expedite anti-dengue activities.
+He also urged people to take precautions such as avoiding the accumulation of water in coolers, pots, and other utensils in or around their homes. He said dengue and malaria are notified under the Epidemic Diseases Act, 1897. Accordingly, all private hospitals in the state of Punjab are required to report dengue and malaria cases to the health department.
+Free dengue treatment is available at all government hospitals and dengue wards have been set up in government hospitals for the treatment of patients. Blood components are available in government hospitals for the treatment of dengue patients.
+Soni told the number of breeding checkers has been increased to 460 to eradicate dengue and mosquito repellent is sprayed in 50-60 houses around the dengue patient's house.
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+[Dengue is transmitted by the bite of a mosquito infected with one of the 4 dengue virus serotypes. It is endemic throughout India, mostly in metropolitan cities and towns. There is no specific treatment for dengue/severe dengue, but early detection and provision of timely proper medical care can reduce fatalities to less than 1%. Maintenance of body fluid volume is critical to severe dengue care.
+The National Guidelines for Clinical Management of Dengue fever can be found at 
+https://nvbdcp.gov.in/WriteReadData/l892s/Dengue-National-Guidelines-2014.pdf
+.
+To prevent or control dengue transmission, it is necessary to control mosquito vector density and/or interrupt human-vector contact. Mosquito source reduction and community awareness about vector-borne diseases are 2 important activities to control them.
+The WHO fact sheet including prevention and control measures for dengue can be accessed at 
+https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
+.
+Guidelines for Integrated Vector Management for Control of Dengue/Dengue Haemorrhagic Fever are available at 
+https://nvbdcp.gov.in/WriteReadData/l892s/dengue_1_Director_Desk_DGHS_meeting_OCT06.pdf
+.
+- Mod.GS
+HealthMap/ProMED map of Punjab State, India: 
+https://promedmail.org/promed-post?place=8698888,316
+] 
+See Also
+
+Dengue - India (17): (Uttar Pradesh) 
+20211003.8698833
+Dengue - India (16): (Madhya Pradesh) 
+20210927.8698740
+Dengue - India (15): (Karnataka ) update 
+20210914.8668758
+Dengue - India (14): (Telangana) update 
+20210906.8649239
+Dengue - India (13): (Uttar Pradesh) fatal 
+20210831.8635600
+Dengue - India (12): (Odisha) update 
+20210818.8604543
+Dengue - India (11): (Odisha) 
+20210728.8550993
+Dengue - India (10): (Maharashtra) fatal 
+20210708.8504636
+Dengue - India (09): (Goa) 
+20210611.8440927
+Dengue - India (08): (New Delhi) update 
+20210605.8413679
+Dengue - India (07): (Kerala) update 
+20210527.8383428
+Dengue - India (06): (Kerala) alert 
+20210523.8374427
+Dengue - India (05): (Kerala) 
+20210406.8291510
+Dengue - India (04): (Kerala) 
+20210317.8251355
+Dengue - India (03): (Tamil Nadu) update 
+20210308.8233708
+Dengue - India (02): (Tamil Nadu) update 
+20210213.8188186
+Dengue - India: (Tamil Nadu) 
+20210123.8127155
+2020
+----
+Dengue - India (26): (Haryana) update 
+20201209.7997397
+Dengue - India (25): (Punjab, Haryana) update 
+20201202.7986145
+Dengue - India (24): (Punjab) update 
+20201112.7938103
+Dengue - India (23): (Delhi) 
+20201109.7926229
+Dengue - India (22): (Tamil Nadu) update 
+20201104.7913385
+Dengue - India (21): (Punjab) update 
+20201102.7909559
+Dengue - India (20): (Punjab) 
+20201101.7901481
+Dengue - India (19): (Punjab) 
+20201025.7886208
+Dengue - India (18): (Punjab) 
+20201014.7855375
+Dengue - India (17): (Punjab, Uttar Pradesh) 
+20201006.7839065
+Dengue - India (16): (Punjab, Haryana) biological vector control 
+20200930.7826170
+Dengue - India (15): (Maharashtra) update 
+20200820.7697535
+Dengue - India (14): (West Bengal) fatal 
+20200730.7628960
+Dengue - India (13): (Maharashtra) update 
+20200712.7563338
+Dengue - India (12): (Kerala) update 
+20200708.7549744
+Dengue - India (11): (Karnataka) update 
+20200620.7491601
+Dengue - India (10): (Karnataka) update 
+20200617.7471050
+Dengue - India (09): (Karnataka) update 
+20200611.7440441
+Dengue - India (08): (Kerala) update 
+20200531.7406388
+Dengue - India (07): (Kerala) update 
+20200511.7323512
+Dengue - India (06): (Odisha) 
+20200502.7289761
+Dengue - India (05): (Telangana) update 
+20200414.7217807
+Dengue - India (04): (Karnataka) 
+20200411.7212669
+Dengue - India (03): (Kerala) 
+20200205.6953706
+Dengue - India (02): (Telangana) update 
+20200121.6902840
+Dengue - India (01): (Maharashtra) update 
+20200116.6892866
+2019
+----
+Dengue - India (50): (Maharashtra) fatal 
+20191222.6851075
+Dengue - India (49): (Maharashtra) 
+20191220.6849880
+Dengue - India (48): (Tamil Nadu) 
+20191218.6847010
+Dengue - India (40): (Maharashtra) fatal 
+20191108.6767126
+Dengue - India (31): (Tamil Nadu) 
+20191008.6711525
+Dengue - India (30): (Maharashtra) fatal 
+20191004.6709516
+Dengue - India (20): (Punjab) vector surveillance 
+20190804.6604781
+Dengue - India (10): (Karnataka) new cases 
+20190518.6474922
+Dengue - India: (Maharashtra) 
+20190202.6289786
+2018
+----
+Dengue - India (50): (Tamil Nadu) update 
+20181226.6219730
+Dengue - India (49): (Punjab) update 
+20181206.6183333
+Dengue - India (48): (West Bengal) fatal 
+20181202.6175640
+Dengue - India (40): (Punjab) fatal, situation update 
+20181008.6075799
+Dengue - India (30): (Himachal Pradesh) fatal 
+20180902.6001710
+Dengue - India (20): (Himachal Pradesh) other infectious diseases 
+20180729.5933119
+Dengue - India (10): (Maharashtra) rise in cases 
+20180531.5830858
+Dengue - India: (Rajasthan) situation update 
+20180322.56989922017
+and other items in the archives
+.................................................gs/mj/uba
